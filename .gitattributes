@@ -4,4 +4,3 @@ list filter=lfs diff=lfs merge=lfs -text
 /Library/PlayerDataCache/OSXUniversal/Data filter=lfs diff=lfs merge=lfs -text
 /Library/PlayerDataCache/OSXUniversal/Data/resources.resource filter=lfs diff=lfs merge=lfs -text
 /Library/PlayerDataCache/Win64/Data/resources.resource filter=lfs diff=lfs merge=lfs -text
-*.resource filter=lfs diff=lfs merge=lfs -text

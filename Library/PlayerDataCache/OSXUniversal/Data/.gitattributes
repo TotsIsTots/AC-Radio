@@ -1,0 +1,2 @@
+resources.resource filter=lfs diff=lfs merge=lfs -text
+library/playerdatacache/win64/data/resources.resource filter=lfs diff=lfs merge=lfs -text
